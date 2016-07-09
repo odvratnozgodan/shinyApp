@@ -1,0 +1,9 @@
+name: shinyApp
+account: brunoblazinc
+server: shinyapps.io
+appId: 113339
+bundleId: 500423
+url: https://brunoblazinc.shinyapps.io/shinyApp/
+when: 1468057065.18672
+asMultiple: FALSE
+asStatic: FALSE
